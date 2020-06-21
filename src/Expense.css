@@ -1,0 +1,12 @@
+.ExpenseContainer
+{
+    
+    width:50%;
+}
+#Eheading{
+    text-align: center;
+}
+#Evalue{
+    text-align: center;
+    color: red;
+}

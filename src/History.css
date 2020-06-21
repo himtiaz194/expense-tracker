@@ -1,0 +1,55 @@
+.HistoryContainer
+{
+    box-shadow: 0 0 10px gray;
+    background-color: #fff;
+    padding: 20px;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.historytitle{
+    margin-top: -20px;
+    width: 100%;
+    border-bottom: 2px solid gray;
+}
+.HistoryList
+{
+    height: 150px;
+    border: solid 1px lightgray;
+    background-color: #fff;
+    box-shadow: var(--box-shadow);
+    padding: 0px;
+    justify-content: space-between;
+    margin: 10px 0;
+    overflow: scroll;
+}
+.TransactionList{
+    margin: 0;
+    padding: 10px;
+
+}
+.TransactionList > li{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 0 10px gray;
+    padding: 10px 5px;
+    margin: 5px 0px;
+}
+.positive{
+    
+    margin-right: -5px;
+    background-color: green;
+    width: 5px;
+    height: 25px;
+}
+.negative{
+    
+    margin-right: -5px;
+    background-color: red;
+    width: 5px;
+    height: 25px;
+}
+
+.amount{
+  
+    margin-left: 200px;
+}

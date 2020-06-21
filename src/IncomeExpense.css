@@ -1,0 +1,14 @@
+.Income-Expense-Container
+{
+    background-color: #fff;   
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    box-shadow: 0 0 10px gray;
+}
+.Linediv
+{
+border: solid 1px lightgray;
+margin-top: 10px;
+height: 80px;
+}

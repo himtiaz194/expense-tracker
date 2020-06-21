@@ -1,0 +1,12 @@
+.IncomeContainer
+{
+    
+    width:50%;
+}
+#Iheading{
+    text-align: center;
+}
+#Ivalue{
+    text-align: center;
+    color: green;
+}
